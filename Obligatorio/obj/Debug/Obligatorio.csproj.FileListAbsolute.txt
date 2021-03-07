@@ -1,0 +1,60 @@
+c:\users\jonatan\documents\visual studio 2015\Projects\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Jonatan\Documents\Visual Studio 2015\Projects\Obligatorio\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Jonatan\Documents\Visual Studio 2015\Projects\Obligatorio\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Documents\Visual Studio 2015\Projects\Obligatorio\Obligatorio\bin\Debug\ObligatorioDominio.dll
+C:\Users\Jonatan\Documents\Visual Studio 2015\Projects\Obligatorio\Obligatorio\bin\Debug\ObligatorioDominio.pdb
+C:\Users\Jonatan\Documents\Visual Studio 2015\Projects\Obligatorio\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\Jonatan\Documents\Visual Studio 2015\Projects\Obligatorio\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Jonatan\Documents\Visual Studio 2015\Projects\Obligatorio\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\bin\Debug\ObligatorioDominio.dll
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\bin\Debug\ObligatorioDominio.pdb
+C:\Users\Jonatan\Desktop\20190518\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\bin\Debug\ObligatorioDominio.dll
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\bin\Debug\ObligatorioDominio.pdb
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\obj\Debug\Obligatorio.csprojAssemblyReference.cache
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\obj\Debug\Obligatorio.csproj.CopyComplete
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Victoria\Desktop\ATI\P2_\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Jonatan\Desktop\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Jonatan\Desktop\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Jonatan\Desktop\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\Obligatorio\bin\Debug\ObligatorioDominio.dll
+C:\Users\Jonatan\Desktop\Obligatorio\bin\Debug\ObligatorioDominio.pdb
+C:\Users\Jonatan\Desktop\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\bin\Debug\ObligatorioDominio.dll
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\bin\Debug\ObligatorioDominio.pdb
+C:\Users\Jonatan\Desktop\Obligatorio Definitivo\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\bin\Debug\ObligatorioDominio.dll
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\bin\Debug\ObligatorioDominio.pdb
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\obj\Debug\Obligatorio.csprojAssemblyReference.cache
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\obj\Debug\Obligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\obj\Debug\Obligatorio.csproj.CopyComplete
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Victoria\Desktop\ATI\PROGRAMACION 2\OBLIGATORIO HOY\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\bin\Debug\Obligatorio.exe.config
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\obj\Debug\Obligatorio.exe
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\obj\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\bin\Debug\Obligatorio.exe
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\bin\Debug\Obligatorio.pdb
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\bin\Debug\ObligatorioDominio.dll
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\bin\Debug\ObligatorioDominio.pdb
+C:\Users\Jonatan\Downloads\obl. ult hoy\Obligatorio\obj\Debug\Obligatorio.csprojResolveAssemblyReference.cache
